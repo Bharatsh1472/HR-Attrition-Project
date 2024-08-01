@@ -3,6 +3,8 @@ HR Attrition Power BI Dashboard.
 <BR>
 [HR ATTRITION DASHBOARD.pdf](https://github.com/user-attachments/files/16410119/HR.ATTRITION.DASHBOARD.pdf)
 <BR>
+[HR-Employee-Attrition-DATASET.csv](https://github.com/user-attachments/files/16460127/HR-Employee-Attrition-DATASET.csv)
+<BR>
 • Leveraged an IBM HR Analytics Employee Attrition and Performance data set created by IBM data scientists from
 Kaggle to retrieve relevant insights.
 <BR>
